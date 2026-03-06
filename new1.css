@@ -1,0 +1,29 @@
+body{
+    border: 10px;
+}
+img{
+    float: left;
+    padding: 20px;
+  margin-left: 70px; ;
+  height: 150px;
+  width: 150px;
+}
+.mydiv{
+    margin-top: ;
+}
+h2{
+    margin-top: 100px;
+    margin-left: 100px;
+
+}
+p{
+    margin-left: 100px;
+    margin-right: 500px;
+}
+table{
+    margin-left: 100px;
+    margin-right: 500px;
+}
+.pg{
+    margin-left: 100px;
+}
